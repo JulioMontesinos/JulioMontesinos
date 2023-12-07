@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Julio Montesinos, a Computer Engineer passionate about technology, with a focus on web development. I graduated in Information Technologies from Miguel Hernández University, and my expertise ranges from crafting impactful front-end experiences to implementing robust back-end logic.
+I'm Julio Montesinos, a Computer Engineer passionate about technology, with a focus on software development. I love developing personal projects to gain new knowledge, entertain myself, and improve professionally every day.
 
 ## Web Development and Full Stack
 
@@ -16,10 +16,14 @@ I'm Julio Montesinos, a Computer Engineer passionate about technology, with a fo
 
 - 🧠 **AI Research:** Executed descriptive and predictive models with Python, applying advanced data science techniques.
 
+- 💻 **Algorithm Implementation:** Proficient in applying algorithms using C and C++.
+
+- 🌐 **3D Geometric Modeling Software:** Experience in developing functionalities for a 3D polygonal geometric modeling software.
+
 ## Current Focus
 
-On my current journey, I'm focused on strengthening my skills as a full stack developer. My determination, combined with a solid foundation in web development, positions me as an ideal candidate for projects requiring versatility and comprehensive expertise.
+On my current journey, I'm focused on strengthening my skills as a software developer.
 
-Explore my repositories to discover more about my projects and contributions! I'm excited about the possibility of contributing my skills to full stack development.
+Explore my repositories to discover more about my projects!
 
 Thanks for visiting my profile! 👨‍💻
